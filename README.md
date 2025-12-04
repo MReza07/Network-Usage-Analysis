@@ -42,7 +42,9 @@ Total Revenue (Previous Month) =
 CALCULATE([T_Revnnue], DATEADD('Date_Master'[Date], -1, MONTH))
 
 🛠 Tools & Technologies
+
 Tool	Purpose
+
 Power BI	Data modeling, DAX measures, visualization
 
 Excel / CSV	Raw dataset preparation
@@ -72,7 +74,6 @@ DAX	Calculated fields and business metrics
 │     ├── Average Data Usage by Network.PNG
 
 │     └── Average Data Usage by Region.PNG
-
       └──  Average Speed by Network .PNG
 │
 └── 📄 README.md
