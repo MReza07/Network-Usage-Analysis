@@ -1,10 +1,10 @@
-📡 Network Usage Analysis – Power BI Dashboard
+## 📡 Network Usage Analysis – Power BI Dashboard
 
 This project provides an in-depth analysis of telecom network usage, customer data consumption patterns, revenue trends, and service performance metrics. The dashboard helps identify high-value regions, network performance gaps, and customer satisfaction drivers to support data-driven decision-making.
 
-🖼 Dashboard Screenshot https://github.com/MReza07/Network-Usage-Analysis/tree/main/schreenshots
+## 🖼 Dashboard Screenshot https://github.com/MReza07/Network-Usage-Analysis/tree/main/schreenshots
 
-📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 ✔ Usage Insights by Region
 
@@ -41,15 +41,18 @@ all_customer = COUNTROWS(Network_Usage_Data)
 Total Revenue (Previous Month) = 
 CALCULATE([T_Revnnue], DATEADD('Date_Master'[Date], -1, MONTH))
 
-🛠 Tools & Technologies
-Tool	           Purpose
-Power BI	     Data modeling, DAX measures, visualization
-Excel / CSV	     Raw dataset preparation
-Power Query	     Data cleaning & transformation
-DAX	           Calculated fields and business metrics
+## 🛠 Tools & Technologies
+
+| Tool            | Purpose                                    |
+| --------------- | ------------------------------------------ |
+| **Power BI**    | Data modeling, DAX measures, visualization |
+| **Excel / CSV** | Raw dataset preparation                    |
+| **Power Query** | Data cleaning & transformation             |
+| **DAX**         | Calculated fields and business metrics     |
 
 
-📁 Project Structure
+
+## 📁 Project Structure
 
 📦 Network Usage Analysis
 │
@@ -75,7 +78,7 @@ DAX	           Calculated fields and business metrics
 └── 📄 README.md
 
 
- 📥 How to Open the Report
+ ## 📥 How to Open the Report
 
 Download the PBIX file
 
@@ -85,7 +88,7 @@ Open in Power BI Desktop (latest version recommended)
 
 Refresh the dataset if needed.
 
-🔍 Key Insights (From the Dashboard)
+## 🔍 Key Insights (From the Dashboard)
 
 Customer data usage and engagement remain strong, driving 1.48M total revenue.
 
@@ -97,7 +100,7 @@ Monthly revenue shows a gradual decline, indicating potential customer churn or 
 
 Lower-usage regions present opportunities for promotional or retention strategie
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Telecom KPI analysis
 
