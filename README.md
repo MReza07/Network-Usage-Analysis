@@ -42,16 +42,12 @@ Total Revenue (Previous Month) =
 CALCULATE([T_Revnnue], DATEADD('Date_Master'[Date], -1, MONTH))
 
 🛠 Tools & Technologies
+Tool	           Purpose
+Power BI	     Data modeling, DAX measures, visualization
+Excel / CSV	     Raw dataset preparation
+Power Query	     Data cleaning & transformation
+DAX	           Calculated fields and business metrics
 
-Tool	Purpose
-
-Power BI	Data modeling, DAX measures, visualization
-
-Excel / CSV	Raw dataset preparation
-
-Power Query	Data cleaning & transformation
-
-DAX	Calculated fields and business metrics
 
 📁 Project Structure
 
