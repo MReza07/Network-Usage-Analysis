@@ -2,7 +2,7 @@
 
 This project provides an in-depth analysis of telecom network usage, customer data consumption patterns, revenue trends, and service performance metrics. The dashboard helps identify high-value regions, network performance gaps, and customer satisfaction drivers to support data-driven decision-making.
 
-## 🖼 Dashboard Screenshot https://github.com/MReza07/Network-Usage-Analysis/tree/main/schreenshots
+# 🖼 Dashboard Screenshot https://github.com/MReza07/Network-Usage-Analysis/tree/main/schreenshots
 
 ## 📊 Dashboard Overview
 
