@@ -60,10 +60,11 @@ CALCULATE([T_Revnnue], DATEADD('Date_Master'[Date], -1, MONTH))
 
 │     └── Network_Usage_Dataset.xlsx
 │
-├── 📄 PBIX/
+├── 📄 Report/
 
 │     └── network usage data.pbix
 │
+
 ├── 📄 Screenshots/
 
 │     ├── Network Usage Data analysis Report.PNG
@@ -75,6 +76,7 @@ CALCULATE([T_Revnnue], DATEADD('Date_Master'[Date], -1, MONTH))
 │     └── Average Data Usage by Region.PNG
       └──  Average Speed by Network .PNG
 │
+
 └── 📄 README.md
 
 
